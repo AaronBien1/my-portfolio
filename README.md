@@ -3,7 +3,7 @@ sir ginamit namin xampp, and nakarely sa database almost all features namin
 included .sql on our file.
 
 REQUIREMENTS:
-1. Management System
+1. E-commerce system
 2. KKK
 3. Group Members:
   * Aaron Bien Benolirao
