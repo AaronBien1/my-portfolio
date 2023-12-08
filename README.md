@@ -12,4 +12,4 @@ REQUIREMENTS:
   * Aeyan Zhaza Beronilla
   * Mica Bulaon
   * Rashlanie Unda
-4. [GitHub link](https://github.com/AaronBien1/my-portfolio)https://github.com/AaronBien1/my-portfolio
+4. https://github.com/AaronBien1/my-portfolio
