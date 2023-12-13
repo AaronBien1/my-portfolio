@@ -1,5 +1,5 @@
 # my-portfolio
-http://kainkaonkakan.great-site.net/main.php#
+http://kainkaonkakan.great-site.net/
 
 REQUIREMENTS:
 1. E-commerce system
